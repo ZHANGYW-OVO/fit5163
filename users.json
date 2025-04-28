@@ -1,0 +1,1 @@
+{"zhang": {"password": "123", "role": "admin"}, "zhou": {"password": "123", "role": "patient"}, "hu": {"password": "123", "role": "patient"}, "pan": {"password": "123", "role": "doctor", "patients": ["zhou", "hu"]}, "zhao": {"password": "123", "role": "patient"}, "wang": {"password": "123", "role": "doctor", "patients": ["zhao"]}}
