@@ -1,4 +1,4 @@
-# Secure EHR CLI System (升级版)
+# Secure EHR CLI System
 
 ## 项目功能
 
