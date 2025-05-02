@@ -1,8 +1,7 @@
-[2025-04-28 14:33:29] Doctor pan added a record for patient zhou
-[2025-04-28 14:33:52] Doctor pan added a record for patient zhou
-[2025-04-28 14:38:13] Doctor pan viewed records of patient zhou.
-[2025-04-28 14:38:13] Doctor pan attempted to view records of patient hu but none were found.
-[2025-04-28 14:38:29] Doctor pan added a record for patient hu
-[2025-04-28 14:38:34] Doctor pan attempted to add a record for non-managed patient zhao
-[2025-04-28 14:39:09] Doctor wang added a record for patient zhao
-[2025-04-28 14:39:13] Doctor wang viewed records of patient zhao.
+[2025-05-02 15:06:06] Doctor pan viewed records of patient zhou.
+[2025-05-02 15:06:06] Doctor pan viewed records of patient hu.
+[2025-05-02 15:06:17] Doctor pan attempted to add a record for non-managed patient zhao
+[2025-05-02 15:06:30] Doctor pan added a record for patient hu
+[2025-05-02 15:06:33] Doctor pan viewed records of patient zhou.
+[2025-05-02 15:06:33] Doctor pan viewed records of patient hu.
+[2025-05-02 15:06:54] Patient hu viewed their health records.
